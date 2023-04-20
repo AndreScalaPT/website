@@ -2,10 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://hugo-quickstart-template.netlify.com/categories/</loc>
-  </url><url>
     <loc>http://hugo-quickstart-template.netlify.com/</loc>
+    <lastmod>2023-04-19T14:38:48+02:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/posts/</loc>
+    <lastmod>2023-04-19T14:38:48+02:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/posts/third/</loc>
+    <lastmod>2023-04-19T14:38:48+02:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/posts/second/</loc>
+    <lastmod>2023-04-19T14:38:44+02:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/categories/</loc>
+    <lastmod>2023-04-19T14:32:24+02:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/tags/docker/</loc>
+    <lastmod>2023-04-19T14:32:24+02:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/categories/docker/</loc>
+    <lastmod>2023-04-19T14:32:24+02:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/tags/docker-compose/</loc>
+    <lastmod>2023-04-19T14:32:24+02:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/tags/home-assistant/</loc>
+    <lastmod>2023-04-19T14:32:24+02:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/categories/home-assistant/</loc>
+    <lastmod>2023-04-19T14:32:24+02:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/posts/first/</loc>
+    <lastmod>2023-04-19T14:32:24+02:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/tags/mqtt/</loc>
+    <lastmod>2023-04-19T14:32:24+02:00</lastmod>
   </url><url>
     <loc>http://hugo-quickstart-template.netlify.com/tags/</loc>
+    <lastmod>2023-04-19T14:32:24+02:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/tags/vscode/</loc>
+    <lastmod>2023-04-19T14:32:24+02:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/tags/zigbee2mqtt/</loc>
+    <lastmod>2023-04-19T14:32:24+02:00</lastmod>
+  </url><url>
+    <loc>http://hugo-quickstart-template.netlify.com/archives/</loc>
   </url>
 </urlset>
